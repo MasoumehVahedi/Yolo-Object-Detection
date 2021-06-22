@@ -6,8 +6,8 @@ Object detection is a task in computer vision that focuses on detecting objects 
 The Lyft 3D Object Detection for Autonomous Vehicles dataset is available in Kaggle website: https://www.kaggle.com/c/3d-object-detection-for-autonomous-vehicles/data
 
 ## Reference
-1- https://arxiv.org/abs/1506.02640\n
-2- https://github.com/experiencor/keras-yolo3\n
-3- https://github.com/allanzelener/YAD2K\n
+1- https://arxiv.org/abs/1506.02640\
+2- https://github.com/experiencor/keras-yolo3\
+3- https://github.com/allanzelener/YAD2K\
 4- https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
